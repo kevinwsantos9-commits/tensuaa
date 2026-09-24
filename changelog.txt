@@ -1,0 +1,8 @@
+Tensu 2.0.1
+
+- Corrigida a rede para a API atual do Forge 1.21.1 / 52.1.16.
+- Substituido NetworkRegistry.newSimpleChannel por ChannelBuilder.
+- Substituido NetworkEvent por CustomPayloadEvent.Context.
+- Atualizado o envio de pacotes para a ordem atual do SimpleChannel.
+- Corrigida a assinatura mouseScrolled da tela de habilidades.
+- Mantidos os sistemas de absorcao, niveis, equipar/desequipar e teleporte.
